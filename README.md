@@ -7,6 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Structure from motion (SFM) of 3D line map
 
 [![BeijingFang](resources/LineSFM/1.png)](https://www.youtube.com/watch?v=vEGlqFtvUOs)
+[![BeijingFang](resources/LineSFM/2.png)]
+[![BeijingFang](resources/LineSFM/3.png)]
+[![BeijingFang](resources/LineSFM/4.png)]
 
 ```markdown
 Syntax highlighted code block
