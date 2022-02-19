@@ -4,12 +4,11 @@ You can use the [editor on GitHub](https://github.com/xuyongzhi/xyz/edit/main/RE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Structure from motion (SFM) of 3D line map
+# Structure from motion (SFM) of 3D line map
+![BJF_3D_Lines](resources/BJF_LineSFM.gif)
 
-[![BeijingFang](resources/LineSFM/1.png)](https://www.youtube.com/watch?v=vEGlqFtvUOs)
-[![BeijingFang](resources/LineSFM/2.png)]
-[![BeijingFang](resources/LineSFM/3.png)]
-[![BeijingFang](resources/LineSFM/4.png)]
+# 3D surface detection from a single view
+![Surface3D](resources/Surface3D.gif)
 
 ```markdown
 Syntax highlighted code block
