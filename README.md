@@ -1,14 +1,13 @@
 ## Yongzhi Xu
 
-You can use the [editor on GitHub](https://github.com/xuyongzhi/xyz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Structure from motion (SFM) of 3D line map
+![BJF_3D_Lines](resources/Line_mapping_pipeline.png)
 ![BJF_3D_Lines](resources/BJF_LineSFM.gif)
+![BJF_3D_Lines](resources/BJF_3D_lines.gif)
 
 # 3D surface detection from a single view
-![Surface3D](resources/Surface3D.gif)
+![Surface3D](resources/3D_surfaces.gif)
+![Surface3D](resources/Cyberpunk.gif)
 
 ```markdown
 Syntax highlighted code block
