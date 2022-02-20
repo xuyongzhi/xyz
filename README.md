@@ -1,10 +1,9 @@
 ## Yongzhi Xu
 
 ## Structure from motion (SFM) of 3D line map
-
-| <img width = 1000/> | <img width = 1000/> |
+|Key contributions |The pipeline of proposed 3D line mapping approach.|
 | :-----| :----: |
-| 1. A novel 3D mapping pipeline. <br> 2. Multi-view triangulation using Plucker representation. <br> 3. No Manhattan assumption | ![BJF_3D_Lines](resources/Line_mapping_pipeline.png)  |
+| <img width = 1000/>  1. A novel 3D mapping pipeline. <br> 2. Multi-view triangulation using Plucker representation. <br> 3. No Manhattan assumption | <img width = 1000/>  ![BJF_3D_Lines](resources/Line_mapping_pipeline.png)  |
 
 
 |    <img width = 1000/>   | 3D line mapping <img width = 1000/> |
@@ -27,9 +26,8 @@ Multiple 3D surfaces are detected from a single view.
 
 ### Wrap virtual materials on the 3D surfaces:
 
-| <img width = 1000/> | <img width = 1000/> |
 | :-----| :----: |
-|1. Fully automated and real-time generation of multiple 3D planes from a single view. <br> 2. The layout of multiple planes are optimized based on the scores and distribution of 3D planes.  |![Surface3D](resources/Cyberpunk.gif)|
+|<img width = 1000/> 1. Fully automated and real-time generation of multiple 3D planes from a single view. <br> 2. The layout of multiple planes are optimized based on the scores and distribution of 3D planes.  | <img width = 1000/> ![Surface3D](resources/Cyberpunk.gif)|
 
 
 ## Scan-to-BIM
