@@ -1,28 +1,35 @@
 ## Yongzhi Xu
 
 ## Structure from motion (SFM) of 3D line map
-A novel 3D mapping pipeline
-![BJF_3D_Lines](resources/Line_mapping_pipeline.png)
+
+| <img width = 1000/> | <img width = 1000/> |
+| :-----| :----: |
+| 1. A novel 3D mapping pipeline. <br> 2. Multi-view triangulation using Plucker representation. <br> 3. No Manhattan assumption | ![BJF_3D_Lines](resources/Line_mapping_pipeline.png)  |
 
 
-![BJF_3D_Lines](resources/BJF_LineSFM.gif)
+|    <img width = 1000/>   | 3D line mapping <img width = 1000/> |
+| ----------- | ----------- |
+| ![BJF_3D_Lines](resources/BJF_3D_lines.gif) | ![BJF_3D_Lines](resources/BJF_LineSFM.gif)     |
 
-
-![BJF_3D_Lines](resources/BJF_3D_lines.gif)
 
 ## Visual positioning system combining features of point and line
-
-![BJF_3D_Lines](resources/Poine_Line_VPS.png)
+| <img width = 1000/> | <img width = 1000/> |
+| :-----| :----: |
+|A novel geometric & descriptor fused line matching approach based on coarse VPS pose. |![BJF_3D_Lines](resources/Poine_Line_VPS.png)|
 
 ## 3D surface detection from a single view
 
 Multiple 3D surfaces are detected from a single view.
 - No Manhattan assumption
 - Unknown camera models 
+- 3D normal accuracy > 97% in real world images (around 60% accuracy achieved by SOTA learning and handcrafted methods.)
 ![Surface3D](resources/3D_surfaces.gif)
 
-Wrap virtual materials on the 3D surfaces:
-![Surface3D](resources/Cyberpunk.gif)
+### Wrap virtual materials on the 3D surfaces:
+
+| <img width = 1000/> | <img width = 1000/> |
+| :-----| :----: |
+|1. Fully automated and real-time generation of multiple 3D planes from a single view. <br> 2. The layout of multiple planes are optimized based on the scores and distribution of 3D planes.  |![Surface3D](resources/Cyberpunk.gif)|
 
 
 ## Scan-to-BIM
