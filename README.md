@@ -4,7 +4,7 @@
 
 | <img width = 1000/> Key contributions | <img width = 1000/> The pipeline of proposed 3D line mapping approach.|
 | :-----| :----: |
-|   1. A novel 3D mapping pipeline. <br> 2. Multi-view triangulation using Plucker representation. <br> 3. No Manhattan assumption | <img width = 1000/>  ![BJF_3D_Lines](resources/Line_mapping_pipeline.png)  |
+|   1. A novel 3D mapping pipeline. <br> 2. Multi-view triangulation using Plucker representation. <br> 3. No Manhattan assumption | <img width = 1000/>  ![BJF_3D_Lines](resources/line_mapping.jpg)  |
 
 
 |    <img width = 1000/>   | 3D line mapping <img width = 1000/> |
