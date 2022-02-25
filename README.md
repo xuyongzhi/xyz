@@ -12,7 +12,8 @@
 | ![BJF_3D_Lines](resources/BJF_3D_lines.gif) | ![BJF_3D_Lines](resources/BJF_LineSFM.gif)     |
 
 
-## Visual positioning system combining features of point and line
+## Visual positioning system combining features of point and line  
+
 | <img width = 1000/> | <img width = 1000/> |
 | :-----| :----: |
 |A novel geometric & descriptor fused line matching approach based on coarse VPS pose. |![BJF_3D_Lines](resources/Poine_Line_VPS.png)|
