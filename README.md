@@ -14,7 +14,7 @@
 
 ## Visual positioning system combining features of point and line  
 
-| <img width = 1000/> | <img width = 1000/> |
+| <img width = 1000/> Key contributions | <img width = 1000/> The pipeline of proposed line-based pose verification & refinement.|
 | :-----| :----: |
 |A novel geometric & descriptor fused line matching approach based on coarse VPS pose. |![BJF_3D_Lines](resources/Poine_Line_VPS.png)|
 
