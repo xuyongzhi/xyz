@@ -1,13 +1,18 @@
 ## Yongzhi Xu
 
-# AR Cloud
+# AR (Augmented reality) Cloud
 [![ARCloud](resources/ARCloud.png)](https://www.youtube.com/watch?v=QYW1evlzZ4w&t=95s)
 
 ## Structure from motion (SFM) of 3D line map
 
-| <img width = 1000/> Key contributions | <img width = 1000/> The pipeline of proposed 3D line mapping approach.|
+Key contributions:
+1. A novel 3D mapping pipeline.   
+2. Multi-view triangulation using Plucker representation.   
+3. No Manhattan assumption
+
+| <img width = 1000/> High-precision map for AR | <img width = 1000/> The pipeline of proposed 3D line mapping approach.|
 | :-----| :----: |
-|   1. A novel 3D mapping pipeline. <br> 2. Multi-view triangulation using Plucker representation. <br> 3. No Manhattan assumption | <img width = 1000/>  ![BJF_3D_Lines](resources/line_mapping.jpg)  |
+|  ![AR_HR_Map](resources/AR_Map.PNG)  | <img width = 1000/>  ![BJF_3D_Lines](resources/line_mapping.jpg)  |
 
 
 | |<img width = 1000/>   |  <img width = 1000/> |
@@ -17,10 +22,12 @@
 | Reprojections | ![rep_lines_A](resources/reprojected_3D_lines/rep_lines_A.gif) | ![rep_lines_A](resources/reprojected_3D_lines/rep_lines_B.gif) |
 
 ## Visual positioning system combining features of point and line  
+Key contributions: 
+- A novel geometric & descriptor fused line matching approach based on coarse VPS pose.
 
-| <img width = 1000/> Key contributions | <img width = 1000/> The pipeline of proposed line-based pose verification & refinement.|
+| <img width = 1000/> VPS (Visual Positioning Service) | <img width = 1000/> The pipeline of proposed line-based pose verification & refinement.|
 | :-----| :----: |
-|A novel geometric & descriptor fused line matching approach based on coarse VPS pose. |![BJF_3D_Lines](resources/Poine_Line_VPS.png)|
+| ![VPS](resources/VPS.gif) |![BJF_3D_Lines](resources/Poine_Line_VPS.png)|
 
 ## 3D surface detection from a single view  
 
