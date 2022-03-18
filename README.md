@@ -1,7 +1,7 @@
 ## Yongzhi Xu
 
 # AR Cloud
-![resources/ARCloud.png](https://www.youtube.com/watch?v=QYW1evlzZ4w&t=95s)
+[![ARCloud](resources/ARCloud.png)](https://www.youtube.com/watch?v=QYW1evlzZ4w&t=95s)
 
 ## Structure from motion (SFM) of 3D line map
 
