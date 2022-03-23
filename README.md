@@ -1,7 +1,8 @@
 ## Yongzhi Xu
 
-# AR (Augmented reality) Cloud
-[![ARCloud](resources/ARCloud.png)](https://www.youtube.com/watch?v=QYW1evlzZ4w&t=95s)
+# AR (Augmented reality) Cloud 
+
+![AR_SNap](resources/SnapAR.gif)
 
 ## Structure from motion (SFM) of 3D line map
 
