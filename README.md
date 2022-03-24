@@ -2,7 +2,7 @@
 
 # AR (Augmented reality) Cloud 
 
-Similar with:
+Similar with:   
 ![AR_SNap](resources/SnapAR.gif)
 
 ## Structure from motion (SFM) of 3D line map
