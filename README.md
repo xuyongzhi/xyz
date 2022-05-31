@@ -21,7 +21,9 @@ Key contributions:
 | ----------- |  ----------- | ----------- |
 | 3D point cloud | ![BJF_Points1](resources/BJF_Points_1.gif) | ![BJF_Points2](resources/BJF_Points_2.gif)      |
 | 3D line cloud |  ![BJF_3D_Lines](resources/BJF_LineSFM.gif) | ![BJF_3D_Lines](resources/BJF_3D_lines.gif)   |
+| Reprojections | ![rep_lines_A](resources/reprojected_3D_lines/NL1.png) | ![rep_lines_A](resources/reprojected_3D_lines/NL2.png) |
 | Reprojections | ![rep_lines_A](resources/reprojected_3D_lines/rep_lines_A.gif) | ![rep_lines_A](resources/reprojected_3D_lines/rep_lines_B.gif) |
+| 3D planes | ![CHJ_3DPlanes](resources/CHJ_3DPlanes.gif)  | ![CHJ_2DPlanes](resources/CHJ_2DPlanes.jpeg)  |
 
 ## Visual positioning system combining features of point and line  
 Key contributions: 
@@ -30,6 +32,7 @@ Key contributions:
 | <img width = 1000/> VPS (Visual Positioning Service) | <img width = 1000/> The pipeline of proposed line-based pose verification & refinement.|
 | :-----| :----: |
 | ![VPS](resources/VPS.gif) |![BJF_3D_Lines](resources/Poine_Line_VPS.png)|
+|  |![JcASL_MAT](resources/NL_JcASL_Line.gif)|
 
 ## 3D surface detection from a single view  
 
