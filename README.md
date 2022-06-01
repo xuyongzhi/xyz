@@ -34,6 +34,8 @@ Key contributions:
 | ![VPS](resources/VPS.gif) |![BJF_3D_Lines](resources/Poine_Line_VPS.png)|
 |  |![JcASL_MAT](resources/NL_JcASL_Line.gif)|
 
+![JcASL_MAdT](resources/SegJuncMat.gif)
+
 ## 3D surface detection from a single view  
 
 Multiple 3D surfaces are detected from a single view.
