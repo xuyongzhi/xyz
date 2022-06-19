@@ -16,6 +16,7 @@ Key contributions:
 | :-----| :----: |
 |  ![AR_HR_Map](resources/AR_Map.PNG)  | <img width = 1000/>  ![BJF_3D_Lines](resources/line_mapping.jpg)  |
 
+![Tri](resources/LineSFM/Line_Tri.png)
 
 | |<img width = 1000/>   |  <img width = 1000/> |
 | ----------- |  ----------- | ----------- |
