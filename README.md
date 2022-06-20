@@ -15,8 +15,9 @@ Key contributions:
 | <img width = 1000/> High-precision map for AR | <img width = 1000/> The pipeline of proposed 3D line mapping approach.|
 | :-----| :----: |
 |  ![AR_HR_Map](resources/AR_Map.PNG)  | <img width = 1000/>  ![BJF_3D_Lines](resources/line_mapping.jpg)  |
+|![Tri](resources/LineSFM/Line_Tri.png) | ![Tri](resources/LineSFM/LineMat.png) |
 
-![Tri](resources/LineSFM/Line_Tri.png)
+
 
 | |<img width = 1000/>   |  <img width = 1000/> |
 | ----------- |  ----------- | ----------- |
