@@ -1,5 +1,9 @@
 ## Yongzhi Xu
 
+# Dense 3D reconstruction using mobile phone
+
+![MVS_AULab](resources/AU_Lab_Office_mesh.gif) 
+
 # AR (Augmented reality) Cloud 
 
 Similar with:   
