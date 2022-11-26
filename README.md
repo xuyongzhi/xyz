@@ -23,8 +23,7 @@ Key contributions:
 | ----------- |  ----------- | ----------- |
 | 3D point cloud | ![BJF_Points1](resources/BJF_Points_1.gif) | ![BJF_Points2](resources/BJF_Points_2.gif)      |
 | 3D line cloud |  ![BJF_3D_Lines](resources/BJF_LineSFM.gif) | ![BJF_3D_Lines](resources/BJF_3D_lines.gif)   |
-| Reprojections | ![rep_lines_A](resources/reprojected_3D_lines/NL1.png) | ![rep_lines_A](resources/reprojected_3D_lines/NL2.png) |
-| Reprojections | ![rep_lines_A](resources/reprojected_3D_lines/rep_lines_A.gif) | ![rep_lines_A](resources/reprojected_3D_lines/rep_lines_B.gif) |
+| Reprojections | ![rep_lines_A](resources/project_lines_A.gif) | ![rep_lines_A](resources/project_lines_B.gif) | 
 
 
 ## Visual positioning system combining features of point and line  
