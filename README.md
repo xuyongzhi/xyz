@@ -25,7 +25,7 @@ Key contributions:
 | 3D line cloud |  ![BJF_3D_Lines](resources/BJF_LineSFM.gif) | ![BJF_3D_Lines](resources/BJF_3D_lines.gif)   |
 | Reprojections | ![rep_lines_A](resources/reprojected_3D_lines/NL1.png) | ![rep_lines_A](resources/reprojected_3D_lines/NL2.png) |
 | Reprojections | ![rep_lines_A](resources/reprojected_3D_lines/rep_lines_A.gif) | ![rep_lines_A](resources/reprojected_3D_lines/rep_lines_B.gif) |
-| 3D planes | ![CHJ_3DPlanes](resources/CHJ_3DPlanes.gif)  | ![CHJ_2DPlanes](resources/CHJ_2DPlanes.jpeg)  |
+
 
 ## Visual positioning system combining features of point and line  
 Key contributions: 
