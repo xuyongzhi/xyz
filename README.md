@@ -2,7 +2,12 @@
 
 # Dense 3D reconstruction using mobile phone
 
-![MVS_AULab](resources/AU_Lab_Office_mesh.gif) 
+
+
+| <img width = 1000/> Multi-view stereo reconstruction | <img width = 1000/> 3D scene understanding |
+| :-----| :----: |
+|  ![MVS_AULab](resources/AU_Lab_Office_mesh.gif)   | <img width = 1000/>  ![RoomPlan](resources/roomplan_aulab.gif)  |
+
 
 # AR (Augmented reality) Cloud 
 
