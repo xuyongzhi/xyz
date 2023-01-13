@@ -4,9 +4,9 @@
 
 
 
-| <img width = 1000/> Multi-view stereo reconstruction | <img width = 1000/> 3D scene understanding |
-| :-----| :----: |
-|  ![MVS_AULab](resources/AU_Lab_Office_mesh.gif)   | <img width = 1000/>  ![RoomPlan](resources/roomplan_aulab.gif)  |
+| <img width = 600/> Input video | <img width = 600/> Multi-view stereo reconstruction | <img width = 600/> 3D scene understanding |
+| :-----| :----: | :----: |
+| ![MVS_AULab](resources/MVS/office.gif)  |  ![MVS_AULab](resources/MVS/AU_Lab_Office_mesh.gif)   | <img width = 600/>  ![RoomPlan](resources/MVS/roomplan_aulab.gif)  |
 
 
 # AR (Augmented reality) Cloud 
