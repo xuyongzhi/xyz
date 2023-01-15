@@ -1,6 +1,21 @@
-## Yongzhi Xu
+# Profile
+Computer vision researcher and engineer with 5 years’ academic and 4 years’ industry experience. I have
+developed several popular products on TikTok and CapCut at ByteDance. I am currently working on 3D
+reconstruction and scene understanding as the team lead of mixed reality (MR) group in Tencent XR AU-Lab.
+I love coding and have been programming using C++ and python for around 9 years. I am passionate on
+pursuing excellence, embracing challenges, enjoying work with others, learning new things along the way.
 
-# Dense 3D reconstruction using mobile phone
+# Dense 3D reconstruction and scene understanding for VR headset 
+**Tencent， Canberra Australia**  
+**Senior researcher in computer vision, Team lead of Mixed Reality (MR) group**
+
+- Roadmap of MR: I have designed the first roadmap of MR for Tencent XR AU-Lab based on a
+comprehensive evaluation of SOTA methods in stereo depth, multi-view stereo(MVS) and depth fusion. I
+proposed a pyramid and structural-aware plane sweep MVS approach, which achieves 40FPS and is 2 times
+faster than the SOTA method SimpleRecon.
+
+- 3D scene understanding: I am leading the development of a 3D scene understanding system similar to
+Apple’s RoomPlan for MR, which detects 3D objects real-time from RGB-D images.
 
 | <img width = 600/> Input video | <img width = 600/> Multi-view stereo reconstruction | <img width = 600/> 3D scene understanding |
 | :-----| :----: | :----: |
