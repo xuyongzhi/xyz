@@ -1,4 +1,4 @@
-# Profile
+# Yongzhi
 Computer vision researcher and engineer with 5 years’ academic and 4 years’ industry experience. I have
 developed several popular products on TikTok and CapCut at ByteDance. I am currently working on 3D
 reconstruction and scene understanding as the team lead of mixed reality (MR) group in Tencent XR AU-Lab.
