@@ -11,11 +11,19 @@ pursuing excellence, embracing challenges, enjoying work with others, learning n
 
 - Roadmap of MR: I have designed the first roadmap of MR for Tencent XR AU-Lab based on a
 comprehensive evaluation of SOTA methods in stereo depth, multi-view stereo(MVS) and depth fusion. I
-proposed a pyramid and structural-aware plane sweep MVS approach, which achieves 40FPS and is 2 times
+proposed a pyramid and structural-aware plane sweep MVS approach, which achieves 40FPS and is 3 times
 faster than the SOTA method SimpleRecon.
+
+<p align="center">
+<img src="resources/MVS/Simplerecon.png" width="600" height="300" >
+</p>
 
 - 3D scene understanding: I am leading the development of a 3D scene understanding system similar to
 Apple’s RoomPlan for MR, which detects 3D objects real-time from RGB-D images.
+
+<p align="center">
+<img src="resources/MR/M2BEV.png" width="700" >
+</p>
 
 | <img width = 600/> Input video | <img width = 600/> Multi-view stereo reconstruction | <img width = 600/> 3D scene understanding |
 | :-----| :----: | :----: |
@@ -23,14 +31,12 @@ Apple’s RoomPlan for MR, which detects 3D objects real-time from RGB-D images.
 
 | <img width = 400/> Input point cloud | <img width = 400/> Plane detection | <img width = 400/> Input point cloud | <img width = 400/> Plane detection |
 | :-----| :----: | :----: | :----: |
-| <img width = 400/> ![MVS_AULab](resources/plane_det/cor_pcd.gif)  | <img width = 400/>  ![MVS_AULab](resources/plane_det/cor_Planes.gif)   | <img width = 300/>  ![RoomPlan](resources/plane_det/office_pcd.gif)  | <img width = 300/>  ![RoomPlan](resources/plane_det/planes_indoor.gif)  |
+| <img width = 400/> ![MVS_AULab](resources/plane_det/cor_pcd.gif)  | <img width = 400/>  ![MVS_AULab](resources/plane_det/Cor_Planes.gif)   | <img width = 300/>  ![RoomPlan](resources/plane_det/office_pcd.gif)  | <img width = 300/>  ![RoomPlan](resources/plane_det/planes_indoor.gif)  |
 
 
 
 # AR (Augmented reality) Cloud 
 
-Similar with:   
-![AR_SNap](resources/SnapAR.gif)
 
 ## Structure from motion (SFM) of 3D line map
 
