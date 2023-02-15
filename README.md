@@ -36,9 +36,9 @@ Apple’s RoomPlan for MR, which detects 3D objects real-time from RGB-D images.
 | <img width = 400/> ![MVS_AULab](resources/plane_det/cor_pcd.gif)  | <img width = 400/>  ![MVS_AULab](resources/plane_det/Cor_Planes.gif)   | <img width = 300/>  ![RoomPlan](resources/plane_det/office_pcd.gif)  | <img width = 300/>  ![RoomPlan](resources/plane_det/planes_indoor.gif)  |
 
 ## BEV room layout detection
-| <img width = 600/> Input point cloud | <img width = 600/> Plane detection | 
-| :-----| :----: | 
-| <img width = 600/> ![RoomPlan_Garage](resources/roomplan/Garage_20Dec_sold2_img_d_recording.gif)  | <img width = 600/>  ![RoomPlan_Corridor](resources/roomplan/Corridor_19Dec_sold2_img_d_recording.gif)   | 
+
+<img width = 600/>  ![RoomPlan_Garage](resources/roomplan/Garage_20Dec_sold2_img_d_recording.gif)  
+<img width = 600/>  ![RoomPlan_Corridor](resources/roomplan/Corridor_19Dec_sold2_img_d_recording.gif)  
 
 
 
