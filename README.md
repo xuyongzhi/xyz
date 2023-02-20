@@ -54,16 +54,16 @@ Key contributions:
 
 | <img width = 1000/> High-precision map for AR | <img width = 1000/> The pipeline of proposed 3D line mapping approach.|
 | :-----| :----: |
-|  ![AR_HR_Map](resources/AR_Map.PNG)  | <img width = 1000/>  ![BJF_3D_Lines](resources/line_mapping.jpg)  |
-|![Tri](resources/LineSFM/Line_Tri.png) | ![Tri](resources/LineSFM/LineMat.png) |
+|  ![AR_HR_Map](resources/BT_AR/AR_Map.PNG)  | <img width = 1000/>  ![line_mapping](resources/SFM/line_mapping.jpg)  |
+|![Tri](resources/SFM/Line_Tri.png) | ![Tri](resources/SFM/LineMat.png) |
 
 
 
 | |<img width = 1000/>   |  <img width = 1000/> |
 | ----------- |  ----------- | ----------- |
-| 3D point cloud | ![BJF_Points1](resources/BJF_Points_1.gif) | ![BJF_Points2](resources/BJF_Points_2.gif)      |
-| 3D line cloud |  ![BJF_3D_Lines](resources/BJF_LineSFM.gif) | ![BJF_3D_Lines](resources/BJF_3D_lines.gif)   |
-| Reprojections | ![rep_lines_A](resources/project_lines_A.gif) | ![rep_lines_A](resources/project_lines_B.gif) | 
+| 3D point cloud | ![BJF_Points1](resources/SFM/BJF_Points_1.gif) | ![BJF_Points2](resources/SFM/BJF_Points_2.gif)      |
+| 3D line cloud |  ![BJF_line_sfm](resources/SFM/BJF_LineSFM.gif) | ![BJF_line_cloud](resources/SFM/BJF_3D_lines.gif)   |
+| Reprojections | ![rep_lines_A](resources/SFM/project_lines_A.gif) | ![rep_lines_A](resources/SFM/project_lines_B.gif) | 
 
 
 ## Visual positioning system combining features of point and line  
@@ -72,10 +72,9 @@ Key contributions:
 
 | <img width = 1000/> VPS (Visual Positioning Service) | <img width = 1000/> The pipeline of proposed line-based pose verification & refinement.|
 | :-----| :----: |
-| ![VPS](resources/VPS.gif) |![BJF_3D_Lines](resources/Poine_Line_VPS.png)|
-|  |![JcASL_MAT](resources/NL_JcASL_Line.gif)|
+| ![VPS](resources/VPS/VPS.gif) |![point_line_vps](resources/VPS/Poine_Line_VPS.png)|
+| I proposed a new approach of pose refinement by combing deep features of points and lines. The 1st contribution is a structure-aware line detector \& descriptor network, which jointly matches lines and junctions locally. The 2nd one is a fused PnPL-based pose estimator combing line-matching, junction-matching and vanishing points. The localization accuracy (within 1m) has been improved from 91\% to 96\% compared with using points only.  |![JcASL_MAT](resources/VPS/NL_JcASL_Line.gif)|
 
-![JcASL_MAdT](resources/SegJuncMat.gif)
 
 ## 3D surface detection from a single view  
 
