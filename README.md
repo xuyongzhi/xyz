@@ -10,13 +10,12 @@ pursuing excellence, embracing challenges, enjoying work with others, learning n
 **Senior researcher in computer vision, Team lead of Mixed Reality (MR) group**
 
 - Roadmap of MR: I have designed the first roadmap of MR for Tencent XR AU-Lab based on a
-comprehensive evaluation of SOTA methods in stereo depth, multi-view stereo(MVS) and depth fusion. I
-proposed a pyramid and structural-aware plane sweep MVS approach, which achieves 40FPS and is 3 times
-faster than the SOTA method SimpleRecon.
+comprehensive evaluation of SOTA methods in stereo depth, multi-view stereo(MVS) and depth fusion. 
+- I proposed a pyramid and structural-aware plane-sweep MVS approach, based on SimpleRecon, that achieves a speed improvement from 75ms to 25ms.
 
-<p align="center">
-<img src="resources/MVS/Simplerecon.png" width="600" height="300" >
-</p>
+| <img width = 600/> SimpleRecon | <img width = 600/> Structure-aware virtual camera locations | 
+| :-----| :----: |
+| <img width = 600/> ![MVS_AULab](resources/MVS/Simplerecon.png)  | <img width = 600/>  ![MVS_AULab](resources/MVS/MVS-Virtual_cameras.png)   |
 
 - 3D scene understanding: I am leading the development of a 3D scene understanding system similar to
 Apple’s RoomPlan for MR, which detects 3D objects real-time from RGB-D images.
