@@ -34,10 +34,6 @@ Apple’s RoomPlan for MR, which detects 3D objects real-time from RGB-D images.
 | :-----| :----: | :----: | :----: |
 | <img width = 400/> ![MVS_AULab](resources/plane_det/cor_pcd.gif)  | <img width = 400/>  ![MVS_AULab](resources/plane_det/Cor_planes.gif)   | <img width = 300/>  ![RoomPlan](resources/plane_det/office_pcd.gif)  | <img width = 300/>  ![RoomPlan](resources/plane_det/planes_indoor.gif)  |
 
-## BEV room layout detection
-
-<img width = 600/>  ![RoomPlan_Garage](resources/roomplan/Garage_20Dec_sold2_img_d_recording.gif)  
-<img width = 600/>  ![RoomPlan_Corridor](resources/roomplan/Corridor_19Dec_sold2_img_d_recording.gif)  
 
 
 
@@ -75,6 +71,9 @@ Key contributions:
 | I proposed a new approach of pose refinement by combing deep features of points and lines. The 1st contribution is a structure-aware line detector \& descriptor network, which jointly matches lines and junctions locally. The 2nd one is a fused PnPL-based pose estimator combing line-matching, junction-matching and vanishing points. The localization accuracy (within 1m) has been improved from 91\% to 96\% compared with using points only.  |![JcASL_MAT](resources/VPS/NL_JcASL_Line.gif)|
 
 
+## SuperPoint
+I improved the open implementation of SuperPoint which achieve similar performance of the official model.
+
 ## 3D surface detection from a single view  
 
 Multiple 3D surfaces are detected from a single view.
@@ -89,6 +88,8 @@ Multiple 3D surfaces are detected from a single view.
 | :-----| :----: |
 |<img width = 1000/> 1. Fully automated and real-time generation of multiple 3D planes from a single view. <br> 2. The layout of multiple planes are optimized based on the scores and distribution of 3D planes.  | <img width = 1000/> ![Surface3D](resources/Cyberpunk.gif)|
 
+
+## Intelligent advertisement placement
 
 ## Scan-to-BIM  
 - Input: registered point cloud
