@@ -96,10 +96,12 @@ Multiple 3D surfaces are detected from a single view.
 ![Surface3D](resources/3D_surfaces.gif)
 
 ### Wrap virtual materials on the 3D surfaces:  
+- Fully automated and real-time generation of multiple 3D planes from a single view.  
+- The layout of multiple planes are optimized based on the scores and distribution of 3D planes.  
 
 | | |
-| :-----| :----: |
-|<img width = 1000/> 1. Fully automated and real-time generation of multiple 3D planes from a single view. <br> 2. The layout of multiple planes are optimized based on the scores and distribution of 3D planes.  | <img width = 1000/> ![Surface3D](resources/Cyberpunk.gif)|
+| :-----| :----: |  
+| <img width = 600/> ![Surface3D](resources/BT_AR/Cyberpunk.gif) |  <img width = 600/>  ![AR_Chinese](resources/BT_AR/AR_ChineseNewYear.gif) |
 
 
 ## Intelligent advertisement placement
