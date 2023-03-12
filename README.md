@@ -20,10 +20,6 @@ comprehensive evaluation of SOTA methods in stereo depth, multi-view stereo(MVS)
 - 3D scene understanding: I am leading the development of a 3D scene understanding system similar to
 Apple’s RoomPlan for MR, which detects 3D objects real-time from RGB-D images.
 
-<p align="center">
-<img src="resources/MR/M2BEV.png" width="700" >
-</p>
-
 | <img width = 600/> Input video | <img width = 600/> Multi-view stereo reconstruction | <img width = 600/> 3D scene understanding |
 | :-----| :----: | :----: |
 | <img width = 600/> ![MVS_AULab](resources/MVS/office.gif)  | <img width = 600/>  ![MVS_AULab](resources/MVS/AU_Lab_Office_mesh.gif)   | <img width = 300/>  ![RoomPlan](resources/MVS/roomplan_aulab.gif)  |
@@ -93,7 +89,7 @@ Multiple 3D surfaces are detected from a single view.
 - No Manhattan assumption
 - Unknown camera models 
 - 3D normal accuracy > 97% in real world images (around 60% accuracy achieved by SOTA learning and handcrafted methods.)
-![Surface3D](resources/3D_surfaces.gif)
+![Surface3D](resources/BT_AR/3D_surfaces.gif)
 
 ### Wrap virtual materials on the 3D surfaces:  
 - Fully automated and real-time generation of multiple 3D planes from a single view.  
