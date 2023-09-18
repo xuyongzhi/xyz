@@ -6,7 +6,47 @@ I love coding and have been programming using C++ and python for around 9 years.
 pursuing excellence, embracing challenges, enjoying work with others, learning new things along the way.
 
 # 3D scene generation using panoramic RGBD diffusion models
+<p align="center">
+<img src=resources/scene_gen/scene_gen_overview.png width=800 />
+</p>
 
+## Two stage coarse-to-fine panorama generation
+<p align="center">
+<img src=resources/scene_gen/panorama_gen.png width=800 />
+</p>
+
+|  Prompt | Panorama RGB | 
+| :-----| :----: |
+|  For_Honor, The image is a 360-degree panoramic view of a fantasy-themed village, featuring various buildings and structures. The village appears to be located near a body of water, possibly a river or a lake. There are also some trees visible in the background, adding to the overall atmosphere of the scene. |   <img src="resources/scene_gen/For_Honor,_The_image_is_a_360-degree_panoramic_vie1.png" width="5000" />  |
+| genshin, The image is a 360-degree panoramic view of a cobblestone street with buildings and a windmill in the background. It appears to be a computer-generated or animated scene, possibly from a video game or virtual world. | <img src="resources/scene_gen/genshin,_The_image_is_a_360-degree_panoramic_view_1.png" width="5000" /> |
+|Ghost_Recon, The image is a 360-degree panoramic view of a mountainous landscape with a lake in the foreground. There are several trees and bushes visible in the scene. The image appears to be a digital or computer-generated representation of the landscape, rather than an actual photograph.|<img src="resources/scene_gen/Ghost_Recon,_The_image_is_a_360-degree_panoramic_v0.png" width="5000" />|
+|The image is a 360-degree panoramic view of a bedroom, featuring a large bed, a television, and a window with a view of the city. The room is decorated in a modern style, with wooden floors and white walls. There is also a chair and a lamp in the room. The panoramic view provides an immersive experience, allowing the viewer to take in the entire room and its surroundings.|<img src="resources/scene_gen/The_image_is_a_360-degree_panoramic_view_of_a_bedr2.png" width="5000" />|
+|The image is a 360-degree panoramic view of a city street, with buildings and cars visible in the foreground. It appears to be taken from a high vantage point, providing a bird's-eye view of the urban environment.|<img src="resources/scene_gen/The_image_is_a_360-degree_panoramic_view_of_a_city0.png" width="5000" />|
+
+## RGBD diffusion 
+<p align="center">
+<img src="resources/scene_gen/RGBD_diffusion.png" width="1200" />
+<img src="resources/scene_gen/depth_compare.png" width="1200" />
+</p>
+
+
+## Panorama inpainting: Masked image conditional UNet + Manifold constraint training
+
+<p align="center">
+<img src="resources/scene_gen/Inpainting_method.png" width="1200" />
+</p>
+
+- Vanilla FT inpainting: Finetune inpainting models using Lora.  
+- Our MCT inpainting:  inpainting model trained with Lora and manifold constraint loss.
+
+<img src="resources/scene_gen/inpaint0.png" width="1200" />
+<img src="resources/scene_gen/inpaint1.png" width="1200" />
+<img src="resources/scene_gen/inpaint2.png" width="1200" />
+<img src="resources/scene_gen/inpaint3.png" width="1200" />
+<img src="resources/scene_gen/inpaint4.png" width="1200" />
+<img src="resources/scene_gen/inpaint5.png" width="1200" />
+<img src="resources/scene_gen/inpaint6.png" width="1200" />
+<img src="resources/scene_gen/inpaint7.png" width="1200" />
 
 
 # Dense 3D reconstruction and scene understanding for VR headset 
@@ -27,6 +67,7 @@ Apple’s RoomPlan for MR, which detects 3D objects real-time from RGB-D images.
 | <img width = 600/> Input video | <img width = 600/> Multi-view stereo reconstruction | <img width = 600/> 3D scene understanding |
 | :-----| :----: | :----: |
 | <img width = 600/> ![MVS_AULab](resources/MVS/office.gif)  | <img width = 600/>  ![MVS_AULab](resources/MVS/AU_Lab_Office_mesh.gif)   | <img width = 300/>  ![RoomPlan](resources/MVS/roomplan_aulab.gif)  |
+
 
 
 ## General plan detection
