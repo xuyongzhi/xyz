@@ -41,14 +41,16 @@ pursuing excellence, embracing challenges, enjoying work with others, learning n
 
 Inpainting experiments: 
 <p align="center">
-<img src="resources/scene_gen/inpaint0.png" width="1200" />
-<img src="resources/scene_gen/inpaint1.png" width="1200" />
-<img src="resources/scene_gen/inpaint2.png" width="1200" />
-<img src="resources/scene_gen/inpaint3.png" width="1200" />
-<img src="resources/scene_gen/inpaint4.png" width="1200" />
-<img src="resources/scene_gen/inpaint5.png" width="1200" />
-<img src="resources/scene_gen/inpaint6.png" width="1200" />
-<img src="resources/scene_gen/inpaint7.png" width="1200" />
+<img src="resources/scene_gen/inpaint0.png" width="1200" />    
+</p>
+<img src="resources/scene_gen/inpaint1.png" width="1200" />    
+<img src="resources/scene_gen/inpaint2.png" width="1200" />    
+<img src="resources/scene_gen/inpaint3.png" width="1200" />    
+<img src="resources/scene_gen/inpaint4.png" width="1200" />    
+<img src="resources/scene_gen/inpaint5.png" width="1200" />    
+<img src="resources/scene_gen/inpaint6.png" width="1200" />    
+<p align="center">
+<img src="resources/scene_gen/inpaint7.png" width="1200" />    
 </p>
 
 
