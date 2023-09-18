@@ -5,6 +5,10 @@ reconstruction and scene understanding as the team lead of mixed reality (MR) gr
 I love coding and have been programming using C++ and python for around 9 years. I am passionate on
 pursuing excellence, embracing challenges, enjoying work with others, learning new things along the way.
 
+# 3D scene generation using panoramic RGBD diffusion models
+
+
+
 # Dense 3D reconstruction and scene understanding for VR headset 
 **Tencent， Canberra Australia**  
 **Senior researcher in computer vision, Team lead of Mixed Reality (MR) group**
