@@ -37,8 +37,9 @@ pursuing excellence, embracing challenges, enjoying work with others, learning n
 </p>
 
 - Vanilla FT inpainting: Finetune inpainting models using Lora.  
-- Our MCT inpainting:  inpainting model trained with Lora and manifold constraint loss.
+- Our MCT inpainting:  inpainting model trained with Lora and manifold constraint loss.  
 
+   
 <img src="resources/scene_gen/inpaint0.png" width="1200" />
 <img src="resources/scene_gen/inpaint1.png" width="1200" />
 <img src="resources/scene_gen/inpaint2.png" width="1200" />
